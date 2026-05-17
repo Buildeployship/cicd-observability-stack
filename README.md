@@ -1,6 +1,6 @@
-# Self-Hosted CI/CD & Observability Stack
+# CI/CD & Observability Stack
 
-Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline and full observability stack running on Arch Linux.
+Infrastructure-as-code and documentation for an on-premise GitLab CI/CD pipeline and full observability stack running on Arch Linux.
 
 
 ## About
